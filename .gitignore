@@ -1,0 +1,8 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore error logs
+error_logs/
+
+# Ignore output folder
+output/
